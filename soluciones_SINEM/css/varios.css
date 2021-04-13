@@ -1,0 +1,11 @@
+.bor{
+    border-style: solid;
+    border-color: lightgray;
+    border-width: 1px;
+    width: 600px;
+    height: 450px;
+}
+
+.promo{
+    margin-left: 60px;
+}
